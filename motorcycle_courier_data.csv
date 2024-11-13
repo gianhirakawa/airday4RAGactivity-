@@ -1,0 +1,21 @@
+Service Type,Time,Pick-up Point,Destination (Drop-off),Booking ID,Duration (minutes),Customer Name,Customer Address,Customer Mobile,Recipient Name,Recipient Address,Recipient Mobile,Product Type,Description,Status,Distance (km),Driver Rating,Price (PHP),Driver's Cut,App's Cut
+Parcel Delivery,12/11/2024 11:47,BGC,Pasig,BKG17455,73.77,Ana De Jesus,789 Burgos St.,9198765432,Mark Tan,123 Main St.,9217654329,Shoes,"Size 9 sneakers, white",On the way to Pick-up Point,13.47,Pending,262.37,209.90,52.47
+Parcel Delivery,12/11/2024 9:57,San Juan,Caloocan,BKG64506,67.77,Miguel Garcia,10 Rizal Dr.,9234567890,Juan Dela Cruz,10 Rizal Dr.,9198765432,Documents,Confidential file documents,In-transit,10.21,Pending,168.86,135.09,33.77
+Food Delivery,11/11/2024 4:53,Binondo,Manila,BKG50146,77.52,Juan Dela Cruz,123 Main St.,9127654321,N/A,N/A,N/A,Mang Inasal,Halo-Halo,Completed,11.82,3.2,252.85,202.28,50.57
+Food Delivery,10/11/2024 15:30,Malate,Quezon City,BKG34424,17.88,Mark Tan,123 Main St.,9198765432,N/A,N/A,N/A,Max's,"Fried Chicken, Pancit Canton, Lumpiang Shanghai",Completed,17.9,3.8,322.93,258.34,64.59
+Parcel Delivery,10/11/2024 8:20,Malate,Quezon City,BKG73399,78.69,Lisa Macapagal,456 Market Ave.,9234567890,Miguel Garcia,123 Main St.,9123456789,Electronics,Smartphone with charger,Completed,16.22,3.6,277.24,221.79,55.45
+Food Delivery,10/11/2024 6:47,Pateros,Paranaque,BKG47490,28.17,Lisa Macapagal,10 Rizal Dr.,9234567890,N/A,N/A,N/A,Jollibee,Chickenjoy,Completed,15.2,3.1,341.76,273.41,68.35
+Food Delivery,10/11/2024 5:40,Malate,Pasig,BKG24052,66.25,Mark Tan,89 Kalayaan Rd.,9198765432,N/A,N/A,N/A,Mang Inasal,"Chicken Inasal, Pork BBQ, Halo-Halo",Completed,13.75,4.5,216.6,173.28,43.32
+Parcel Delivery,09/11/2024 18:07,BGC,Las Pinas,BKG90067,41.67,Liza Lim,456 Market Ave.,9127654321,Miguel Garcia,123 Main St.,9198765432,Shoes,"Size 9 sneakers, white",Completed,14.71,4,330.76,264.61,66.15
+Food Delivery,09/11/2024 11:52,BGC,Manila,BKG41042,59.04,Lisa Macapagal,456 Market Ave.,9127654321,N/A,N/A,N/A,McDonald's,Fries,Completed,8.61,3.3,146.47,117.18,29.29
+Food Delivery,09/11/2024 10:15,Pateros,Manila,BKG59553,109.99,Jose Rizal,10 Rizal Dr.,9123456789,N/A,N/A,N/A,Mang Inasal,"Pork BBQ, Halo-Halo",Completed,6.25,3.8,125.83,100.66,25.17
+Food Delivery,09/11/2024 0:15,Sta. Ana,Las Pinas,BKG43913,89.04,Liza Lim,123 Main St.,9217654329,N/A,N/A,N/A,Max's,"Lumpiang Shanghai, Fried Chicken, Pancit Canton",Completed,2.87,4.3,96.5,77.20,19.30
+Food Delivery,07/11/2024 18:17,Binondo,Caloocan,BKG34449,36.48,Juan Dela Cruz,123 Main St.,9127654321,N/A,N/A,N/A,Mang Inasal,"Pork BBQ, Halo-Halo",Completed,6.65,3.3,137,109.60,27.40
+Customer Transportation,07/11/2024 16:59,Binondo,Paranaque,BKG84832,40.43,Jose Rizal,123 Main St.,9234567890,N/A,N/A,N/A,N/A,N/A,Completed,2.42,3.1,86.27,69.02,17.25
+Food Delivery,07/11/2024 16:00,Intramuros,Makati,BKG68311,49.88,Maria Santos,789 Burgos St.,9123456789,N/A,N/A,N/A,Max's,Pancit Canton,Completed,17.92,3.2,396.49,317.19,79.30
+Customer Transportation,07/11/2024 7:44,BGC,Manila,BKG80887,78.86,Mark Tan,456 Market Ave.,9127654321,N/A,N/A,N/A,N/A,N/A,Completed,6.67,4.1,128.61,102.89,25.72
+Parcel Delivery,06/11/2024 18:41,Pateros,Taguig,BKG36772,25.72,Pedro Reyes,10 Rizal Dr.,9198765432,Miguel Garcia,89 Kalayaan Rd.,9198765432,Documents,Confidential file documents,Completed,12.42,3.9,253.99,203.19,50.80
+Food Delivery,06/11/2024 12:12,BGC,Las Pinas,BKG13256,109.23,Carmen Velasco,10 Rizal Dr.,9198765432,N/A,N/A,N/A,McDonald's,"McFlurry, Big Mac, Fries",Completed,2.47,4.5,77.06,61.65,15.41
+Parcel Delivery,06/11/2024 2:36,BGC,Paranaque,BKG65872,47.61,Mark Tan,789 Burgos St.,9127654321,Mark Tan,789 Burgos St.,9198765432,Food,Box of pastries,Completed,2.69,4.1,86.28,69.02,17.26
+Parcel Delivery,05/11/2024 21:40,San Juan,Pasig,BKG72683,85.69,Lisa Macapagal,456 Market Ave.,9198765432,Liza Lim,456 Market Ave.,9127654321,Documents,Confidential file documents,Completed,18.78,4.3,380.55,304.44,76.11
+Parcel Delivery,05/11/2024 15:20,Pateros,Taguig,BKG56372,28.56,Jose Rizal,789 Burgos St.,9123456789,Miguel Garcia,10 Rizal Dr.,9217654329,Shoes,"Size 9 sneakers, white",Completed,17.13,3.2,341.5,273.20,68.30
